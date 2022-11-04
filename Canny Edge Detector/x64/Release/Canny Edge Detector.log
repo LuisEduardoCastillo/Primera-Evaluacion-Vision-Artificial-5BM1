@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\Canny Edge Detector\Source.cpp(205,11): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\Canny Edge Detector\Source.cpp(205,52): warning C4804: '<=': uso no seguro del tipo 'bool' en la operación
+C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\Canny Edge Detector\Source.cpp(210,17): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\Canny Edge Detector\Source.cpp(215,18): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\Canny Edge Detector\Source.cpp(220,19): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+  Generando código
+  1 of 114 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Canny Edge Detector.vcxproj -> C:\Users\Luis\Documents\IPN\ESCOM - IIA\5to Semestre\Visión Artificial\Examen - Canny\Canny Edge Detector\x64\Release\Canny Edge Detector.exe
